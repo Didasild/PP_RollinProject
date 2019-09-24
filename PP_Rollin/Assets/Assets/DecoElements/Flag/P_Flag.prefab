@@ -451,6 +451,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: P_Flag
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0957b8bd35c58e64c8cd60475c7dc012,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4957653604820139571, guid: 0957b8bd35c58e64c8cd60475c7dc012,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5852331563488258872, guid: 0957b8bd35c58e64c8cd60475c7dc012,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 0957b8bd35c58e64c8cd60475c7dc012,
         type: 3}
       propertyPath: m_LocalPosition.x
